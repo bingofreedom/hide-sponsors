@@ -1,0 +1,14 @@
+.pla-unit,
+.commercial-unit,
+.commercial-unit-desktop-top,
+.commercial-unit-mobile-top,
+.cu-container {
+  display: none !important;
+}
+
+div[data-text-ad],
+div[data-pla],
+.uEierd,
+.ads-ad {
+  display: none !important;
+}
